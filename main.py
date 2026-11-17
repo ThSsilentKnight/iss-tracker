@@ -24,4 +24,4 @@ else:
     print(f" {name} is at latitude {lat} --- longitude {lon}")
     print(req)
 finally:
-    input("Press Enter to Exit")
+    input("Press Enter to Exit Please. . .")
